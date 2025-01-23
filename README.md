@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aryan-Maini
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on Impactful Projects
+- 👀 I’m interested in Data Science and Open Source
+- 🌱 I’m currently learning R and Statistics (time series)
+- 💞️ I’m looking to collaborate on Impactful Projects :)
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
