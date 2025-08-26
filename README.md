@@ -1,7 +1,7 @@
 - Machine Learning Student
 - **DuckDB Course Creator**
   ###### Passionate About Karaoke, Nature, Empathy
-  #### Connect with me: linkedin.com/in/aryan-maini
+  #### Connect with me: [my linkedin](https://linkedin.com/in/aryan-maini)
 
 - 💞️ I’m looking to collaborate on Impactful Projects :)
 - 📫 How to reach me: aryanmaini24@gmail.com
